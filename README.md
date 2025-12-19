@@ -3,10 +3,7 @@
   <b>Software Developer | MERN Stack Learner | India 🇮🇳</b>
 </p>
 
-<p align="center">
-  <a href="https://digitaldevgrid.tech">🌐 Portfolio</a> •
-  <a href="mailto:tummasriharsha123@gmail.com">📧 Email</a>
-</p>
+
 
 ---
 
