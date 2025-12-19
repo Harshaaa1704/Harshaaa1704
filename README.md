@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tumma Sri Harsha</h1>
+<p align="center">
+  <b>Software Developer | MERN Stack Learner | India 🇮🇳</b>
+</p>
 
 
 
