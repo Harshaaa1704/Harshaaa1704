@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 - 🔭 Working on **DevGrid**
 - 🌱 Learning **MERN Stack, TypeScript, Python & Java**
-- 🎯 Focused on **clean code & real-world projects**
+
 - 📍 From **India**
 
 ---
