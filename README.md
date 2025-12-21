@@ -11,7 +11,7 @@
 - 🔭 Working on **DevGrid**
 - 🌱 Learning **MERN Stack, TypeScript, Python & Java**
 
-- 📍 From **India**
+
 
 ---
 
